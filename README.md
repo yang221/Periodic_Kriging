@@ -1,4 +1,4 @@
-# Periodic_Kriging
+# Periodic Kriging
 Simulation for anvils with hemisphere knurls
 "main.R" defines all parameters and functions.
 "Preprocessing.R" simulates a new anvil surface.
