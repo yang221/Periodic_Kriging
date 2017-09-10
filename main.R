@@ -45,7 +45,7 @@ CovFcn.Mix <- function(dist, para){
 #####
 for(s in 1:1000){
   source('Preprocessing.R')
-  source('MixKriging.R')
+  source('PerKriging.R')
   source('other_method.R')
   
   HSSurflist[[s]] = HSSurf
